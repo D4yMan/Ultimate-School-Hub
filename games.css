@@ -1,0 +1,54 @@
+body {
+  background: #45EA80;
+}
+p {
+  color: white;
+  
+  font-family: arial;
+}
+h1 {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+}
+h2 {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+}
+h3 {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+}
+h4 {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+}
+h5 {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+}
+h6 {
+  font-weight: bold;
+  color: white;
+  font-family: arial;
+}
+a {
+  color: white;
+  font-weight: bold;
+  font-family: arial;
+  text-decoration: none;
+}
+ul {
+  color: white;
+  font-weight: bold;
+  font-family: arial;
+}
+ol {
+  color: white;
+  font-weight: bold;
+  font-family: arial;
+}
